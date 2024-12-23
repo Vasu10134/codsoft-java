@@ -1,15 +1,13 @@
-**Hello... Readers...** 
-  
-I Am Vasu Sahu Doing Virtual Internship Programme From CodSoft On "Java Developer" .  
-The Duration Of The Internship Will Be **4 Weeks** , Strating From **10 December 2024** to **10 January 2024** .
+# 👋 Hello, Readers!  
 
-I Have Done A Collective Of 3 Codes , Which Are Following :
- + *NumberGuessingGame*
- + *StudentGradeCalculator*
- + *CurrencyConverter*
+I recently completed a **🌐 Virtual Internship Program** as a **☕ Java Developer** with **CodSoft**. This 4-week internship provided invaluable hands-on experience and enhanced my skills in **✨ Java** and software development.  
 
-Throughout The Journey , The CodSoft Help Me To Achieve This Milestone Through Their Enormous Experiences .  
-Thanks You For Your Companionship...I Am Looking Forward To Work With You Again...  
+## 📂 Projects Completed:  
+- 🎮 **Number Guessing Game**  
+- 📝 **Student Grade Calculator**  
+- 💱 **Currency Converter**  
 
-EMAIL : Vasu.sahu.8080@gmail.com  
-**ID : *Available shortly*
+I am immensely grateful to CodSoft for their guidance and support throughout this program, which helped me achieve this milestone. I look forward to more opportunities to collaborate in the future.  
+
+📧 **Email:** Vasu.sahu.8080@gmail.com  
+🆔 **ID:** *Available shortly*  
